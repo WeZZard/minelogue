@@ -113,6 +113,9 @@ items, Timeline blocks, and Timeline detail cards.
 
 ## License
 
-Minelogue is dual-licensed: [AGPL-3.0-or-later](LICENSE) for open-source use,
-with a [commercial license](LICENSE-COMMERCIAL.md) available for uses the
-AGPL does not fit.
+Minelogue uses a server-side dual-license model. The public source code is
+licensed under [AGPL-3.0-or-later](LICENSE), and a separate
+[commercial license agreement](LICENSE-COMMERCIAL.md) may be available for
+proprietary products, closed-source hosted services, managed deployments, or
+other uses where the AGPL does not fit. The commercial notice is not itself a
+license grant; commercial rights require a separate written agreement.
